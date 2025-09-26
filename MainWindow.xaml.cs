@@ -523,7 +523,6 @@ namespace Snap_Erase
                 XamlRoot = this.Content.XamlRoot
             };
             await dialog.ShowAsync();
-
         }
     }
 }
