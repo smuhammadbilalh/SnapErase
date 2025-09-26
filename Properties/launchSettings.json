@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Snap Erase (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Snap Erase (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
