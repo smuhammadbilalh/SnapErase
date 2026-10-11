@@ -4,11 +4,11 @@
 
 ### Remove image backgrounds on Windows — 100% offline, powered by on-device AI
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge)](#-requirements)
-[![WinUI 3](https://img.shields.io/badge/WinUI%203-Windows%20App%20SDK-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/windows/apps/winui/winui3/)
-[![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-U%C2%B2--Net-005CED?style=for-the-badge&logo=onnx&logoColor=white)](https://onnxruntime.ai/)
-[![Stars](https://img.shields.io/github/stars/smuhammadbilalh/SnapErase?style=for-the-badge&color=f5a623)](https://github.com/smuhammadbilalh/SnapErase/stargazers)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0a0a0a?style=for-the-badge)](#-requirements)
+[![WinUI 3](https://img.shields.io/badge/WinUI%203-Windows%20App%20SDK-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=fafafa)](https://learn.microsoft.com/windows/apps/winui/winui3/)
+[![.NET 8](https://img.shields.io/badge/.NET-8.0-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=fafafa)](https://dotnet.microsoft.com/)
+[![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-U%C2%B2--Net-0a0a0a?style=for-the-badge&logo=onnx&logoColor=fafafa)](https://onnxruntime.ai/)
+[![Stars](https://img.shields.io/github/stars/smuhammadbilalh/SnapErase?style=for-the-badge&color=0a0a0a)](https://github.com/smuhammadbilalh/SnapErase/stargazers)
 
 *Your photos never leave your PC. No accounts, no uploads, no credits, no internet required.*
 
@@ -90,9 +90,9 @@ Issues and pull requests are welcome. If you have an idea, open an issue and let
 
 **Muhammad Bilal** — IT Specialist & App Developer · Gujrat, Pakistan
 
-[![GitHub](https://img.shields.io/badge/GitHub-smuhammadbilalh-181717?style=for-the-badge&logo=github)](https://github.com/smuhammadbilalh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadbilaltech-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammadbilaltech)
-[![Email](https://img.shields.io/badge/Email-smuhammadbilalh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuhammadbilalh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-smuhammadbilalh-0a0a0a?style=for-the-badge&logo=github)](https://github.com/smuhammadbilalh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadbilaltech-0a0a0a?style=for-the-badge)](https://www.linkedin.com/in/muhammadbilaltech)
+[![Email](https://img.shields.io/badge/Email-smuhammadbilalh%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:smuhammadbilalh@gmail.com)
 
 ⭐ If this project helped you, please consider giving it a star!
 
